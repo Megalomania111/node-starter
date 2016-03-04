@@ -1,0 +1,9 @@
+config
+models
+public
+  images
+  js
+  css
+routes
+views
+uploads
