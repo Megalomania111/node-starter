@@ -1,9 +1,1 @@
-config
-models
-public
-  images
-  js
-  css
-routes
-views
-uploads
+# Node.js

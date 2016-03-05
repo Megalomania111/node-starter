@@ -1,3 +1,4 @@
+'use strict';
 /**
 * Application dependencies
 */
@@ -12,6 +13,9 @@ const flash = require('express-flash');
 const dotenv = require('dotenv');
 const MongoStore = require('connect-mongo')(session);
 const mongoose = require('mongoose');
+const viewEngine = require('ejs-locals');
+const validator = require('express-validator');
+const passportConfig = require('./config/passport');
 const path = require('path');
 const sass = require('node-sass-middleware');
 const logger = require('morgan');
@@ -45,6 +49,7 @@ mongoose.connection.on('error', () => {
 /**
 * Express configuration
 */
+app.engine('ejs', viewEngine);
 app.set('port', process.env.PORT || 3000);
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
@@ -52,6 +57,7 @@ app.use(logger('dev'));
 app.use(helmet());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
+app.use(validator());
 app.use(methodOverride());
 app.use(cookieParser());
 app.use(session({
