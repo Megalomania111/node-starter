@@ -1,4 +1,4 @@
-# Node.js
+# Node-starter
 
 A boilerplate application for Express.js project. 
 
