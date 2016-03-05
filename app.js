@@ -121,3 +121,5 @@ app.use(function(err, req, res, next) {
 });
 
 app.use(errorLogger());
+
+module.exports = app;
