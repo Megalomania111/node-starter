@@ -1,10 +1,20 @@
-<% if (messages.errors) { 
+    <% if (messages.errors) { 
 
-        messages.errors.forEach(function (item) {
-%>
+            messages.errors.forEach(function (item) {
+    %>
             <div class="alert alert-danger" role="alert"><%= item.msg %></div>
-<%
-        });
+    <%
+            });
 
-    }
-%>
+        }
+    %>
+    <% if (messages.success) { 
+
+            messages.success.forEach(function (item) {
+    %>
+            <div class="alert alert-success" role="alert"><%= item.msg %></div>
+    <%
+            });
+
+        }
+    %> 

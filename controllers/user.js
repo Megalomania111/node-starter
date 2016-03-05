@@ -4,11 +4,30 @@ const passport = require('passport');
 
 /**
 * Render login page
-* 
 */
 exports.renderSignInPage = function (req, res) {
   res.render('signin', {
     title: 'Sign in page',
+    user: req.user
+  });
+};
+
+/**
+* Render profile page
+*/
+exports.renderProfilePage = function (req, res) {
+  res.render('profile', {
+    title: 'Profile page',
+    user: req.user
+  });
+};
+
+/**
+* Render register page
+*/
+exports.renderRegisterPage = function (req, res) {
+  res.render('register', {
+    title: 'Register page',
     user: req.user
   });
 };
@@ -78,19 +97,32 @@ exports.registerUser = function (req, res, next) {
   });
 };
 
-exports.renderProfilePage = function (req, res) {
-  res.render('profile', {
-    title: 'Profile page',
-    user: req.user
-  });
-};
+exports.updateUser = function (req, res) {
+  req.assert('email', 'Email is not valid').isEmail();
+  req.assert('name', 'Name cannot be blank').notEmpty();
 
-/**
-* Render register page
-*/
-exports.renderRegisterPage = function (req, res) {
-  res.render('register', {
-    title: 'Register page',
-    user: req.user
+  let errors = req.validationErrors();
+
+  if (errors) {
+    req.flash('errors', errors);
+    return res.redirect('/profile');
+  }
+
+  User.findOne({email: req.body.email}, (err, user) => {
+    if (err) {
+      req.flash('errors', { msg: 'Unable to save. ' + err.message });
+      return res.redirect('/profile');
+    }
+
+    user.email = req.body.email;
+    user.name = req.body.name;
+    user.save((err) => {
+      if (err) {
+        req.flash('errors', { msg: 'Unable to save. ' + err.message });
+        return res.redirect('/profile');
+      }
+      req.flash('success', { msg: 'Profile information updated.' });
+      res.redirect('/profile');
+    });
   });
 };

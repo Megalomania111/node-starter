@@ -22,6 +22,9 @@ userSchema.methods.comparePassword = function(password, cb){
 };
 
 userSchema.pre('save', function (next) {
+  if (!this.isModified('password')) {
+    return next();
+  }
   bcrypt.genSalt(10, (err, salt) => {
     if (err) {
       return next(err);
@@ -48,6 +51,4 @@ userSchema.methods.getGravatar = function (size) {
   return 'https://gravatar.com/avatar/' + md5 + '?s=' + size + '&d=retro';
 };
 
-const User = mongoose.model('User', userSchema);
-
-module.exports = User;
+module.exports = mongoose.model('User', userSchema);

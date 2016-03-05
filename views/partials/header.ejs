@@ -11,14 +11,7 @@
             </div>
             <div class="collapse navbar-collapse pull-right">
                 <ul class="nav navbar-nav">
-                    <li><a href="/">Home</a></li>
-                    <% if (!user) { %>
-                        <li class=""><a href="/signin">Sign In</a></li>
-                        <li class=""><a href="/register">Register</a></li>
-                    <% } else { %>
-                        <li class=""><a href="/profile">Profile</a></li>
-                        <li class=""><a href="/signout">Sign Out</a></li>
-                    <% } %>  
+                    <%- mainMenu.render() %>
                 </ul>
             </div>
         </div>

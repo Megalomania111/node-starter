@@ -1,3 +1,4 @@
+'use strict';
 const passport = require('passport');
 const LocalStrategy = require('passport-local');
 const User = require('../models/user');
@@ -12,6 +13,9 @@ passport.deserializeUser(function(id, done) {
   });
 });
 
+/**
+* Local Strategy
+*/
 passport.use(new LocalStrategy({ usernameField: 'email' }, function(email, password, done) {
   User.findOne({ email: email.toLowerCase() }, function(err, user) {
     if (!user) {
@@ -31,5 +35,12 @@ exports.isAuthenticated = function(req, res, next) {
   if (req.isAuthenticated()) {
     return next();
   }
-  res.redirect('/login');
+  res.redirect('/signin');
+};
+
+exports.isUnAuthenticated = function(req, res, next) {
+  if (req.isUnauthenticated()) {
+    return next();
+  }
+  res.redirect('/profile');
 };

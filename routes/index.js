@@ -1,3 +1,4 @@
+'use strict';
 /**
 * Module dependencies
 */
@@ -14,12 +15,13 @@ router.get('/', homePageController.renderHomePage);
 /**
 * User
 */
-router.get('/signin', userController.renderSignInPage);
-router.get('/register', userController.renderRegisterPage);
+router.get('/signin', passportConfig.isUnAuthenticated, userController.renderSignInPage);
+router.get('/register', passportConfig.isUnAuthenticated, userController.renderRegisterPage);
 router.get('/profile', passportConfig.isAuthenticated, userController.renderProfilePage);
 
 router.post('/signin', userController.signInUser);
-router.get('/signout', userController.signOutUser);
 router.post('/register', userController.registerUser);
+router.post('/profile/update', passportConfig.isAuthenticated, userController.updateUser);
+router.get('/signout', userController.signOutUser);
 
 module.exports = router;

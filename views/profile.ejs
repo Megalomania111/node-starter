@@ -1,5 +1,14 @@
 <% layout('layout') -%>
 
-<img class="img-circle img-responsive" src="<%= user.getGravatar() %>" alt="">
-<p><%= user %></p>
-<p><%= user.email %></p>
+<img class="img-responsive img-thumbnail" src="<%= user.getGravatar() %>" alt="">
+<form action="/profile/update" method="POST">
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input class="form-control" type="text" name="name" id="name" value="<%= user.name %>">
+
+        <label for="email">Email</label>
+        <input class="form-control" type="email" name="email" id="email" value="<%= user.email %>">
+    </div>
+    
+    <button class="btn btn-default btn-primary" type="submit">Update</button>
+</form>
