@@ -6,7 +6,7 @@ const passport = require('passport');
 * Render login page
 */
 exports.renderSignInPage = function (req, res) {
-  res.render('signin', {
+  res.render('./account/signin', {
     title: 'Sign in page',
     user: req.user
   });
@@ -16,7 +16,7 @@ exports.renderSignInPage = function (req, res) {
 * Render profile page
 */
 exports.renderProfilePage = function (req, res) {
-  res.render('profile', {
+  res.render('./account/profile', {
     title: 'Profile page',
     user: req.user
   });
@@ -26,7 +26,7 @@ exports.renderProfilePage = function (req, res) {
 * Render register page
 */
 exports.renderRegisterPage = function (req, res) {
-  res.render('register', {
+  res.render('./account/register', {
     title: 'Register page',
     user: req.user
   });
