@@ -18,6 +18,11 @@ router.get('/', homePageController.renderHomePage);
 router.get('/signin', passportConfig.isUnAuthenticated, userController.renderSignInPage);
 router.get('/register', passportConfig.isUnAuthenticated, userController.renderRegisterPage);
 router.get('/profile', passportConfig.isAuthenticated, userController.renderProfilePage);
+router.get('/forgot', passportConfig.isUnAuthenticated, userController.renderForgotPasswordPage);
+router.get('/reset/:token', passportConfig.isUnAuthenticated, userController.renderResetPasswordPage);
+
+router.post('/reset/:token', passportConfig.isUnAuthenticated, userController.saveResetPassword);
+router.post('/forgot', userController.resetPassword);
 
 router.post('/signin', userController.signInUser);
 router.post('/register', userController.registerUser);
