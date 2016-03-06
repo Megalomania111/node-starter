@@ -10,8 +10,7 @@ const nodemailer = require('nodemailer');
 */
 exports.renderSignInPage = function (req, res) {
   res.render('./account/signin', {
-    title: 'Sign in page',
-    user: req.user
+    title: 'Sign in page'
   });
 };
 
@@ -20,8 +19,7 @@ exports.renderSignInPage = function (req, res) {
 */
 exports.renderProfilePage = function (req, res) {
   res.render('./account/profile', {
-    title: 'Profile page',
-    user: req.user
+    title: 'Profile page'
   });
 };
 
@@ -30,8 +28,7 @@ exports.renderProfilePage = function (req, res) {
 */
 exports.renderRegisterPage = function (req, res) {
   res.render('./account/register', {
-    title: 'Register page',
-    user: req.user
+    title: 'Register page'
   });
 };
 
@@ -40,8 +37,7 @@ exports.renderRegisterPage = function (req, res) {
 */
 exports.renderForgotPasswordPage = function (req, res) {
   res.render('./account/forgot', {
-    title: 'Forgot password',
-    user: req.user
+    title: 'Forgot password'
   });
 };
 
@@ -61,7 +57,7 @@ exports.renderResetPasswordPage = function (req, res, next) {
       }
       res.render('./account/reset', {
         title: 'Reset Password',
-        user: user
+        passwordResetToken: user.passwordResetToken
       });
     });
 };

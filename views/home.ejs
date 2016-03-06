@@ -1,9 +1,11 @@
 <% layout('layout') -%>
 
 <div class="jumbotron">
-    <h1>Hello, world!</h1>
+    <h1>Hello, <%= (user) ? user.name : 'world!' %></h1>
+    <% if (!isAuthenticated()) { %>
     <div class="btn-group" role="group">
         <a href="/register" class="btn btn-primary btn-lg">Register</a>
         <a href="/signin" class="btn btn-primary btn-lg">Sign In</a>
     </div>
+    <% } %>
 </div>

@@ -4,7 +4,16 @@
 
 @import 'libs/bootstrap';
 
-.form-signin {
+.form-account {
   max-width: 300px;
   margin: 0 auto;
+
+  .form-control {
+    margin-bottom: 10px;
+  }
+
+  a{
+    margin-bottom: 10px;
+    display: inline-block;
+  }
 }
