@@ -11,7 +11,14 @@
             </div>
             <div class="collapse navbar-collapse pull-right">
                 <ul class="nav navbar-nav">
-                    <%- mainMenu.render() %>
+                    <li <%- isCurrentPage('/') ? ' class="active" ' : '' %> ><a href="/">Home</a></li>
+                    <% if (!isAuthenticated()) { %>
+                        <li <%- isCurrentPage('/signin') ? ' class="active" ' : '' %> ><a href="/signin">Sign In</a></li>
+                        <li <%- isCurrentPage('/register') ? ' class="active" ' : '' %> ><a href="/register">Register</a></li>
+                    <% } else { %>
+                        <li <%- isCurrentPage('/profile') ? ' class="active" ' : '' %> ><a href="/profile">Profile</a></li>
+                        <li <%- isCurrentPage('/signout') ? ' class="active" ' : '' %> ><a href="/signout">Sign Out</a></li>
+                    <% } %>
                 </ul>
             </div>
         </div>

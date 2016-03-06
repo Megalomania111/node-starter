@@ -84,13 +84,8 @@ app.use(sass({
   debug: true
 }));
 app.use(express.static(path.join(__dirname, 'public')));
-app.use(menu('mainMenu', [
-  {label: 'Home', url: '/'},
-  {label: 'Sign In', url: '/signin', guest: true},
-  {label: 'Register', url: '/register',guest: true},
-  {label: 'Profile', url: '/profile',authenticated: true},
-  {label: 'Sign Out', url: '/signout',authenticated: true}
-]));
+// helpers lib
+require('./lib/helpers')(app);
 
 /**
 * Routes
