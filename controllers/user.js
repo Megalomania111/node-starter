@@ -277,15 +277,21 @@ exports.saveResetPassword = function (req, res, next) {
           'This is a confirmation that the password for your account ' + user.email + ' has just been changed.\n'
       };
       transporter.sendMail(mailOptions, function(err) {
-        done(err);
+        done(err, user);
       });
     }
-  ], (err) => {
+  ], (err, user) => {
     if (err) {
       return next(err);
     }
 
     req.flash('success', { msg: 'Success! Your password has been changed.' });
-    res.redirect('/signin');
+    req.logIn(user, () => {
+        if (err) {
+          return next(err);
+        }
+        res.redirect('/signin');
+    });
+    
   });
 };
