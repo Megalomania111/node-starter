@@ -3,7 +3,8 @@ const User = require('../models/user');
 const passport = require('passport');
 const crypto = require('crypto');
 const async = require('async');
-const nodemailer = require('nodemailer');
+const mail = require('../config/mail').transporter;
+const _ = require('underscore');
 
 /**
 * Render login page
@@ -102,9 +103,11 @@ exports.registerUser = function (req, res, next) {
   }
 
   let newUser = new User({
-    name: req.body.name,
     email: req.body.email,
-    password: req.body.password
+    password: req.body.password,
+    profile: {
+      name: req.body.name
+    }
   });
 
   User.findOne({email: req.body.email}, (err, user) => {
@@ -138,20 +141,54 @@ exports.updateUser = function (req, res) {
     return res.redirect('/profile');
   }
 
-  User.findOne({email: req.body.email}, (err, user) => {
+  User.findById(req.user.id, (err, user) => {
     if (err) {
       req.flash('errors', { msg: 'Unable to save. ' + err.message });
       return res.redirect('/profile');
     }
 
     user.email = req.body.email;
-    user.name = req.body.name;
+    user.profile.name = req.body.name;
+    user.profile.gender = req.body.gender || user.profile.gender;
+    if (req.body.password) {
+      user.password = req.body.password;
+    }
+    user.profile.location = req.body.location || user.profile.location;
     user.save((err) => {
       if (err) {
         req.flash('errors', { msg: 'Unable to save. ' + err.message });
         return res.redirect('/profile');
       }
       req.flash('success', { msg: 'Profile information updated.' });
+      res.redirect('/profile');
+    });
+  });
+};
+
+exports.updatePassword = function (req, res) {
+  req.assert('password', 'Password must be at least 4 characters long').len(4);
+  req.assert('passwordConfirm', 'Passwords do not match').equals(req.body.password);
+
+  let errors = req.validationErrors();
+
+  if (errors) {
+    req.flash('errors', errors);
+    return res.redirect('/profile');
+  }
+
+  User.findById(req.user.id, (err, user) => {
+    if (err) {
+      req.flash('errors', { msg: 'Unable to save. ' + err.message });
+      return res.redirect('/profile');
+    }
+
+    user.password = req.body.password;
+    user.save((err) => {
+      if (err) {
+        req.flash('errors', { msg: 'Unable to save. ' + err.message });
+        return res.redirect('/profile');
+      }
+      req.flash('success', { msg: 'Password has been changed.' });
       res.redirect('/profile');
     });
   });
@@ -199,15 +236,7 @@ exports.resetPassword = function (req, res, next) {
     },
 
     (user, token, done) => {
-      var transporter = nodemailer.createTransport({
-        service: 'MailGun',
-        auth: {
-          user: process.env.MAILGUN_USER,
-          pass: process.env.MAILGUN_PASSWORD
-        }
-      });
-
-      var mailOptions = {
+      let mailOptions = {
         to: user.email,
         from: `Reset password <${process.env.MAILGUN_USER}>`,
         subject: 'Reset your password',
@@ -216,7 +245,7 @@ exports.resetPassword = function (req, res, next) {
           'http://' + req.headers.host + '/reset/' + token + '\n\n' +
           'If you did not request this, please ignore this email and your password will remain unchanged.\n'
       };
-      transporter.sendMail(mailOptions, function(err) {
+      mail.sendMail(mailOptions, function(err) {
         done(err);
       });
     }
@@ -262,21 +291,14 @@ exports.saveResetPassword = function (req, res, next) {
     },
 
     (user, done) => {
-      var transporter = nodemailer.createTransport({
-        service: 'MailGun',
-        auth: {
-          user: process.env.MAILGUN_USER,
-          pass: process.env.MAILGUN_PASSWORD
-        }
-      });
-      var mailOptions = {
+      let mailOptions = {
         to: user.email,
         from: `Reset password <${process.env.MAILGUN_USER}>`,
         subject: 'Reset password',
         text: 'Hello,\n\n' +
           'This is a confirmation that the password for your account ' + user.email + ' has just been changed.\n'
       };
-      transporter.sendMail(mailOptions, function(err) {
+      mail.sendMail(mailOptions, function(err) {
         done(err, user);
       });
     }
@@ -293,5 +315,32 @@ exports.saveResetPassword = function (req, res, next) {
         res.redirect('/signin');
     });
     
+  });
+};
+
+exports.authUnlink = function (req, res, next) {
+  let provider = req.params.provider;
+  User.findById(req.user.id, function(err, user) {
+    if (err) {
+      return next(err);
+    }
+    user[provider] = undefined;
+    user.tokens = _.reject(user.tokens, function(token) { return token.kind === provider; });
+    user.save(function(err) {
+      if (err) return next(err);
+      req.flash('info', { msg: provider + ' account has been unlinked.' });
+      res.redirect('/profile');
+    });
+  });
+};
+
+exports.deleteUser = function(req, res, next) {
+  User.remove({ _id: req.user.id }, function(err) {
+    if (err) {
+      return next(err);
+    }
+    req.logout();
+    req.flash('info', { msg: 'Your account has been deleted.' });
+    res.redirect('/');
   });
 };

@@ -4,15 +4,25 @@ const crypto = require('crypto');
 const bcrypt = require('bcryptjs');
 
 const userSchema = new mongoose.Schema({
-  email: {
-    type: String,
-    unique: true
-  },
+  email: { type: String, lowercase: true, unique: true },
   password: String,
-  name: String,
   passwordResetToken: String,
-  passwordResetExpires: Date
-});
+  passwordResetExpires: Date,
+
+  facebook: String,
+  vkontakte: String,
+  twitter: String,
+  google: String,
+  tokens: Array,
+
+  profile: {
+    name: { type: String, default: '' },
+    gender: { type: String, default: '' },
+    location: { type: String, default: '' },
+    website: { type: String, default: '' },
+    picture: { type: String, default: '' }
+  }
+}, { timestamps: true });
 
 userSchema.methods.comparePassword = function(password, cb){
    bcrypt.compare(password, this.password, (err, isMatch) => {
@@ -26,6 +36,9 @@ userSchema.methods.comparePassword = function(password, cb){
 userSchema.pre('save', function (next) {
   if (!this.isModified('password')) {
     return next();
+  }
+  if (!this.profile.picture) {
+    this.profile.picture = this.getGravatar();
   }
   bcrypt.genSalt(10, (err, salt) => {
     if (err) {

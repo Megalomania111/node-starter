@@ -1,14 +1,89 @@
 <% layout('../layout') -%>
-
-<img class="img-responsive img-thumbnail" src="<%= user.getGravatar() %>" alt="">
+<div class="page-header"><h3>Profile information</h3></div>
 <form action="/profile/update" method="POST">
-    <div class="form-group">
-        <label for="name">Name</label>
-        <input class="form-control" type="text" name="name" id="name" value="<%= user.name %>">
-
-        <label for="email">Email</label>
-        <input class="form-control" type="email" name="email" id="email" value="<%= user.email %>">
+    <div class="form-group row">
+        <label class="col-sm-3 text-right" for="name">Name</label>
+        <div class="col-sm-7">
+            <input class="form-control" type="text" name="name" id="name" value="<%= user.profile.name %>">
+        </div>
     </div>
-    
-    <button class="btn btn-default btn-primary" type="submit">Update</button>
+    <div class="form-group row">
+        <label class="col-sm-3 text-right" for="email">Email</label>
+        <div class="col-sm-7">
+            <input class="form-control" type="email" name="email" id="email" value="<%= user.email %>">
+        </div>    
+    </div>
+    <div class="form-group row">
+        <label class="col-sm-3 text-right" for="location">Location</label>
+        <div class="col-sm-7">
+            <input class="form-control" type="text" name="location" id="location" value="<%= user.profile.location %>">
+        </div>
+    </div> 
+    <div class="form-group row">
+        <label class="col-sm-3 text-right" for="gender">Gender</label>
+        <div class="col-sm-7">
+            <div class="radio">
+                <label><input type="radio" <%= (user.profile.gender == 'male') ? 'checked' : '' %> name="gender" value="male">Male</label>
+            </div>
+            <div class="radio">
+                <label><input type="radio" <%= (user.profile.gender == 'female') ? 'checked' : '' %> name="gender" value="female">Female</label>
+            </div>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label class="col-sm-3 text-right">Picture</label>
+        <div class="col-sm-7">
+            <img class="img-responsive img-thumbnail" src="<%= user.profile.picture %>" alt="">
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-sm-offset-3 col-sm-7">
+            <button class="btn btn-default btn-primary" type="submit">Update</button>
+        </div>
+    </div>
 </form>
+
+<div class="page-header"><h3>Change password</h3></div>
+<form action="/profile/password" method="POST">
+    <div class="form-group row">
+        <label class="col-sm-3 text-right" for="password">New password</label>
+        <div class="col-sm-7">
+            <input class="form-control" type="password" name="password" id="password">
+        </div>
+    </div>
+    <div class="form-group row">
+        <label class="col-sm-3 text-right" for="passwordConfirm">Confirm password</label>
+        <div class="col-sm-7">
+            <input class="form-control" type="password" name="passwordConfirm" id="passwordConfirm">
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-sm-7 col-sm-offset-3">
+            <button class="btn btn-default btn-primary" type="submit">Change</button>
+        </div>
+    </div>
+</form>
+<div class="page-header"><h3>Delete account</h3></div>
+<form id="form-delete-account" action="/profile/delete" method="POST">
+    <div class="form-group row">
+        <div class="col-sm-7 col-sm-offset-3">
+            <button id="btn-delete-account" class="btn btn-default btn-danger" type="button">Delete</button>
+        </div>
+    </div>
+</form>
+<div class="page-header"><h3>Linked Accounts</h3></div>
+<div class="form-group row">
+    <div class="col-sm-7 col-sm-offset-3">
+    <% if (user.facebook) { %>
+        <a class="btn btn-danger" href="/profile/unlink/facebook"><i class="fa fa-facebook"></i>  Unlink your Facebook account</a>
+    <% } else { %>
+        <a class="btn btn-success" href="/auth/facebook"><i class="fa fa-facebook"></i>  Link your Facebook account</a>
+    <% } %>
+
+    <% if (user.vkontakte) { %>
+        <a class="btn btn-danger" href="/profile/unlink/vkontakte"><i class="fa fa-vk"></i>  Unlink your vkontakte account</a>
+    <% } else { %>
+        <a class="btn btn-success" href="/auth/vkontakte"><i class="fa fa-vk"></i>  Link your vkontakte account</a>
+    <% } %>
+    </div>
+</div>

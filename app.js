@@ -102,6 +102,7 @@ app.use(function(req, res, next) {
     status: 404,
     user: req.user
   });
+  logger.error(`${res.statusCode} HTTP ${req.method} "${req.url}"`);
   next();
 });
 
@@ -112,9 +113,10 @@ app.use(function(err, req, res, next) {
     status: err.status || 500,
     user: req.user
   });
-  logger.error(`${err.message}`);
+  //next(err);
+  logger.error(`${res.statusCode} HTTP ${req.method} "${req.url}"`);
 });
 
-app.use(errorLogger());
+//app.use(errorLogger());
 
 module.exports = app;

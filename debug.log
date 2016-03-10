@@ -1,0 +1,802 @@
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:29:22"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:29:22"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:29:22"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:30:03"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:30:03"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:30:03"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:32:54"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:32:54"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:32:54"}
+{"level":"debug","message":"hello","timestamp":"03.07.2016, 9:33:47"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:33:47"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:33:47"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:33:47"}
+{"level":"debug","message":"hello","timestamp":"03.07.2016, 9:37:03"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:37:03"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:37:03"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:37:03"}
+{"level":"debug","message":"hello","timestamp":"03.07.2016, 9:37:27"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:37:27"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:37:27"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:37:27"}
+{"level":"debug","message":"hello","timestamp":"03.07.2016, 9:37:50"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:37:50"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:37:50"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:37:50"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 9:37:56"}
+{"level":"info","message":"\u001b[31m200 HTTP GET \"/profile\"\u001b[39m","timestamp":"03.07.2016, 9:37:56"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:37:56"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 9:37:57"}
+{"level":"info","message":"\u001b[31m200 HTTP GET \"/css/font-awesome.min.css\"\u001b[39m","timestamp":"03.07.2016, 9:37:57"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 9:37:57"}
+{"level":"info","message":"\u001b[31m200 HTTP GET \"/css/main.css\"\u001b[39m","timestamp":"03.07.2016, 9:37:57"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 9:37:57"}
+{"level":"info","message":"\u001b[31m200 HTTP GET \"/js/jquery-2.2.1.min.js\"\u001b[39m","timestamp":"03.07.2016, 9:37:57"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 9:37:57"}
+{"level":"info","message":"\u001b[31m200 HTTP GET \"/js/bootstrap.min.js\"\u001b[39m","timestamp":"03.07.2016, 9:37:57"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:37:57"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:37:57"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:37:57"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:37:57"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 9:37:57"}
+{"level":"info","message":"\u001b[31m200 HTTP GET \"/favicon.png\"\u001b[39m","timestamp":"03.07.2016, 9:37:57"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:37:58"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:42:01"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:42:01"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:42:01"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:47:39"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:47:39"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:47:39"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:49:50"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:49:50"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:49:50"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 9:50:42"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:50:42"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 9:50:42"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 9:50:42"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 9:50:42"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 9:50:42"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:50:42"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:50:42"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:50:42"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:50:42"}
+{"level":"info","message":"200 HTTP GET \"/asdfasdf\"","timestamp":"03.07.2016, 9:50:45"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:50:45"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 9:50:45"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 9:50:45"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 9:50:45"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 9:50:45"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:50:45"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:50:45"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:50:45"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:50:45"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:51:36"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:51:36"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:51:36"}
+{"level":"info","message":"200 HTTP GET \"/asdfasdf\"","timestamp":"03.07.2016, 9:51:40"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:51:40"}
+{"level":"info","message":"200 HTTP GET \"/asdfasdf\"","timestamp":"03.07.2016, 9:51:41"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:51:41"}
+{"level":"info","message":"200 HTTP GET \"/asdfasdf\"","timestamp":"03.07.2016, 9:52:18"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:52:18"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 9:52:20"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:52:20"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 9:52:20"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 9:52:20"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 9:52:20"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 9:52:20"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:52:20"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:52:20"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:52:20"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:52:20"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 9:52:21"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:52:21"}
+{"level":"info","message":"200 HTTP GET \"/safdf\"","timestamp":"03.07.2016, 9:52:23"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:52:23"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:53:55"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:53:55"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:53:55"}
+{"level":"info","message":"200 HTTP GET \"/safdf\"","timestamp":"03.07.2016, 9:54:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:54:00"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 9:54:00"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 9:54:00"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 9:54:00"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 9:54:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:54:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:54:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:54:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:54:00"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:55:00"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:55:00"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:55:00"}
+{"level":"info","message":"200 HTTP GET \"/safdf\"","timestamp":"03.07.2016, 9:55:05"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:55:06"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 9:55:06"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 9:55:06"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 9:55:06"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 9:55:06"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:55:06"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:55:06"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:55:06"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:55:06"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 9:55:06"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:55:06"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:56:29"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:56:29"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:56:29"}
+{"level":"info","message":"200 HTTP GET \"/safdf\"","timestamp":"03.07.2016, 9:56:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:56:32"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 9:56:32"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 9:56:32"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 9:56:32"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 9:56:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:56:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:56:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:56:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:56:32"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 9:56:33"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:56:33"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:57:49"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:57:49"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:57:49"}
+{"level":"info","message":"200 HTTP GET \"/safdf\"","timestamp":"03.07.2016, 9:57:51"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:57:51"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 9:57:51"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 9:57:51"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 9:57:51"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 9:57:51"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:57:51"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:57:51"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:57:51"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:57:51"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 9:57:52"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 9:57:52"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 9:59:58"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 9:59:58"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 9:59:58"}
+{"level":"info","message":"200 HTTP GET \"/safdf\"","timestamp":"03.07.2016, 10:00:02"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:00:02"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:00:02"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:00:02"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:00:02"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:00:02"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:00:02"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:00:02"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:00:02"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:00:02"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 10:00:03"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:00:03"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 10:01:11"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 10:01:11"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 10:01:11"}
+{"level":"info","message":"200 HTTP GET \"/safdf\"","timestamp":"03.07.2016, 10:01:13"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:01:13"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:01:13"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:01:13"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:01:13"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:01:13"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:01:13"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:01:13"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:01:13"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:01:13"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 10:01:14"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:01:14"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 10:02:14"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 10:02:14"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 10:02:14"}
+{"level":"info","message":"200 HTTP GET \"/safdf\"","timestamp":"03.07.2016, 10:02:17"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:02:17"}
+{"level":"info","message":"404 HTTP GET \"/safdf\"","timestamp":"03.07.2016, 10:02:17"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:02:17"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:02:17"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:02:17"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:02:17"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:02:17"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:02:17"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:02:17"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:02:17"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 10:02:18"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:02:18"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 10:02:53"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 10:02:53"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 10:02:53"}
+{"level":"info","message":"200 HTTP GET \"/safdf\"","timestamp":"03.07.2016, 10:02:55"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:02:55"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:02:55"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:02:55"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:02:55"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:02:55"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:02:55"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:02:55"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:02:55"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:02:55"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 10:02:56"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:02:56"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 10:03:37"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 10:03:37"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 10:03:37"}
+{"level":"info","message":"200 HTTP GET \"/safdf\"","timestamp":"03.07.2016, 10:03:44"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:03:44"}
+{"level":"error","message":"404 HTTP GET \"/safdf\"","timestamp":"03.07.2016, 10:03:45"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:03:45"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:03:45"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:03:45"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:03:45"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:03:45"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:03:45"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:03:45"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:03:45"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 10:03:45"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:03:45"}
+{"level":"info","message":"Mongoose users.ensureIndex({\"email\":1}) {\"unique\":true,\"background\":true}","timestamp":"03.07.2016, 10:04:12"}
+{"level":"info","message":"MongoDB connection opened.","timestamp":"03.07.2016, 10:04:12"}
+{"level":"info","message":"Application is running on port 3000","timestamp":"03.07.2016, 10:04:12"}
+{"level":"info","message":"200 HTTP GET \"/safdf\"","timestamp":"03.07.2016, 10:04:15"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:04:15"}
+{"level":"error","message":"404 HTTP GET \"/safdf\"","timestamp":"03.07.2016, 10:04:15"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:04:15"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:04:15"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:04:15"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:04:15"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:04:15"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:04:15"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:04:15"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:04:15"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 10:04:15"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:04:15"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:09:33"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:09:33"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:09:34"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:09:34"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:09:34"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:09:34"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:09:34"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:09:34"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:09:34"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:09:34"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 10:09:35"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:09:35"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:09:35"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:09:35"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:09:35"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:09:35"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:09:35"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:09:35"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:09:35"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:09:35"}
+{"level":"info","message":"200 HTTP GET \"/signout\"","timestamp":"03.07.2016, 10:11:47"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:11:47"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:11:47"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:11:47"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:11:47"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:11:47"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:11:47"}
+{"level":"info","message":"200 HTTP GET \"/signin\"","timestamp":"03.07.2016, 10:11:48"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:11:49"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:11:49"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:11:49"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:11:49"}
+{"level":"info","message":"200 HTTP GET \"/auth/facebook\"","timestamp":"03.07.2016, 10:11:56"}
+{"level":"info","message":"200 HTTP GET \"/auth/facebook/callback?code=AQDZuVSbIKmj0vbe8-HFgVfyD061tSEGTxISPTYtclcLLULlLQlT9Yf27qVpWtbhi_FJ30_81WIB7NDE391-sEj9OoHRcwe94d20buVNJcmo4dMdqorBg0wEjnr82zw37sN4kcE5loAycLtnYV24ld1iXr_d9uFXzjVfjDmrLzBN3umH9mHcjwSCZ9WjetdOV9a9CMdstH_qZ2PFqhEKtwlgDJGSsIhuS22AAIwC9LywwqseLCy8wiOkFhT8m8Htj431HllKDdbd3SWk7DtfOUmQmluJr65QHe8VPGqoo3LOdxgibOUQ2PhKeORQTJW6cGAfQMZVcQtXJFN5fc0vXrn_\"","timestamp":"03.07.2016, 10:11:57"}
+{"level":"info","message":"Mongoose users.findOne({\"facebook\":\"1116743338358118\"}) {}","timestamp":"03.07.2016, 10:11:58"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 10:11:58"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:11:58"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:11:58"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:11:58"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:11:58"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:11:58"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:11:58"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:11:58"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:11:58"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:11:58"}
+{"level":"info","message":"200 HTTP POST \"/profile/delete\"","timestamp":"03.07.2016, 10:12:27"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:12:27"}
+{"level":"info","message":"Mongoose users.remove({\"_id\":\"56dd7a3cc6d6f3200c5f7454\"}) {}","timestamp":"03.07.2016, 10:12:27"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:12:27"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:12:28"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:12:28"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:12:28"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:12:28"}
+{"level":"info","message":"200 HTTP GET \"/signin\"","timestamp":"03.07.2016, 10:12:30"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:12:30"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:12:30"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:12:30"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:12:30"}
+{"level":"info","message":"200 HTTP GET \"/auth/facebook\"","timestamp":"03.07.2016, 10:12:31"}
+{"level":"info","message":"200 HTTP GET \"/auth/facebook/callback?code=AQCwYiMsuYnnqiJJiY8GwMPfmUaDequkz0hem5VC0VYTn6OTQ7fDOob7kOAVnCpuSU7kgqf_X5mhWWv0frtzEZZ-2EHUOkKbQsRhy_P694aK8qfthOr1MuRpBI5Gczk7VfdFzMLuUu9fsTzN7ccXgheTv68hFmoaCdmc8NgFFImwVtIvJ59_Xyo_uE2g5Ov81tCVVvSLj2T0uU1OEB156zNlPAOYs-BOc8-Y-mNRY9tDcchimFkP8lv4DvDWx2fKzwe-zSdsS2Mjv-USqlrfMJK2SD6WKYwwVzg8QR8WApXjFTIyOLvZ9ZAzRDId7NHlIbjXJNirCgF6rfAzyblb25Nf\"","timestamp":"03.07.2016, 10:12:31"}
+{"level":"info","message":"Mongoose users.findOne({\"facebook\":\"1116743338358118\"}) {}","timestamp":"03.07.2016, 10:12:32"}
+{"level":"info","message":"Mongoose users.findOne({\"email\":\"pisarivskii@gmail.com\"}) {}","timestamp":"03.07.2016, 10:12:32"}
+{"level":"info","message":"Mongoose users.insert({\"updatedAt\":\"2016-03-07T20:12:32.000Z\",\"createdAt\":\"2016-03-07T20:12:32.000Z\",\"facebook\":\"1116743338358118\",\"email\":\"pisarivskii@gmail.com\",\"_id\":\"56dde0b06146423044a4acac\",\"profile\":{\"picture\":\"https://graph.facebook.com/1116743338358118/picture?type=large\",\"website\":\"\",\"location\":\"\",\"gender\":\"male\",\"name\":\"Anatoliy Pisarivskiy\"},\"tokens\":[{\"accessToken\":\"CAAKt9ZAkkCMEBANN6WfZCFcqpDiKBlw69mnCWvvZC1ZCSzqAICg7hY6anp8ZCSIXZCEAzdzKua2L5SlmqLivhIs6BoQUGG61woocBQQ0dN0vNVEsWdW8CO387oJIv5BA6M8w9wZBxh2HM7mQyOt2kn2gsi6xmUF9gvcaP5P1o3ZAelszoZC9ws72a1dVJhZAidhiZCtUD2f7a6IYwZDZD\",\"kind\":\"facebook\"}],\"__v\":0}) undefined","timestamp":"03.07.2016, 10:12:32"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 10:12:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:12:32"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:12:32"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:12:32"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:12:32"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:12:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:12:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:12:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:12:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:12:32"}
+{"level":"info","message":"200 HTTP GET \"/signout\"","timestamp":"03.07.2016, 10:12:40"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:12:40"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:12:40"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:12:40"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:12:40"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:12:40"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:12:40"}
+{"level":"info","message":"200 HTTP GET \"/signin\"","timestamp":"03.07.2016, 10:12:41"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:12:41"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:12:41"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:12:41"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:12:41"}
+{"level":"info","message":"200 HTTP POST \"/signin\"","timestamp":"03.07.2016, 10:12:46"}
+{"level":"info","message":"Mongoose users.findOne({\"email\":\"pisarivskii@gmail.com\"}) {}","timestamp":"03.07.2016, 10:12:46"}
+{"level":"info","message":"200 HTTP GET \"/signin\"","timestamp":"03.07.2016, 10:12:46"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:12:46"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:12:46"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:12:46"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:12:46"}
+{"level":"info","message":"200 HTTP POST \"/signin\"","timestamp":"03.07.2016, 10:12:55"}
+{"level":"info","message":"Mongoose users.findOne({\"email\":\"pisarivskii@gmail.com\"}) {}","timestamp":"03.07.2016, 10:12:55"}
+{"level":"info","message":"200 HTTP GET \"/signin\"","timestamp":"03.07.2016, 10:12:55"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:12:56"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:12:56"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:12:56"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:12:56"}
+{"level":"info","message":"200 HTTP GET \"/auth/facebook\"","timestamp":"03.07.2016, 10:12:58"}
+{"level":"info","message":"200 HTTP GET \"/auth/facebook/callback?code=AQDjZvLS6opdZvztvLHQVHzMMwlMq2kgWlvWcimjJbb2L2HupeEL3QHa48ffJ9lstkvaTrlVVmZIcZ-Zhaz9IwY6mJXo5Ph-9McfjvhRgNNQHJLeFbgbTJhv4TLYViw8IhB_nl_7_KW0fGpPqf9hkJxIO0qo1xmFvGmRNeovVeZaREmssUCPNCsaLgOB_JWl1cvdH2bYgP1M-6ymZFcRZ2jKWNEuheoncXNtRkRW3wBwYWToQ9tRlT-V2AHDv822BM8LQbwQuGxw9VC-scHBYjZ1f5ZrwJmkiXZEVhM0Jo120jwWBN5Ree0tqXfB9swsmMnjIm4kqudt96VB4e3eJ2s_\"","timestamp":"03.07.2016, 10:12:58"}
+{"level":"info","message":"Mongoose users.findOne({\"facebook\":\"1116743338358118\"}) {}","timestamp":"03.07.2016, 10:12:58"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 10:12:59"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:12:59"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:12:59"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:12:59"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:12:59"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:12:59"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:12:59"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:12:59"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:12:59"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:12:59"}
+{"level":"info","message":"200 HTTP POST \"/profile/password\"","timestamp":"03.07.2016, 10:13:16"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:13:16"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:13:16"}
+{"level":"info","message":"Mongoose users.update({\"_id\":\"56dde0b06146423044a4acac\"}) {\"$set\":{\"password\":\"$2a$10$id/EIpHZVZ7.8hObObijrOnaU0bFXvngjaDf92y26imKnidXxvdty\",\"updatedAt\":\"2016-03-07T20:13:16.657Z\"}}","timestamp":"03.07.2016, 10:13:17"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 10:13:17"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:13:17"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:13:17"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:13:17"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:13:17"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:13:17"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:13:17"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:13:17"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:13:17"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:13:17"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:13:28"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:13:28"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:13:28"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:13:28"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:14:02"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:14:02"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:14:02"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:14:02"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:14:02"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:14:02"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:14:02"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:14:02"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:14:02"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:14:02"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:14:25"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:14:25"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:14:25"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:14:25"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:14:25"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:14:25"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:14:25"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:14:25"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:14:25"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:14:25"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 10:14:26"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:14:26"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:15:46"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:46"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:15:46"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:15:46"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:15:46"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:15:46"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:46"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:46"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:46"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:46"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 10:15:46"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:46"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 10:15:48"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:48"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:15:48"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:15:48"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:15:48"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:15:48"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:48"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:48"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:48"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:48"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:15:52"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:52"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:15:52"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:15:52"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:15:52"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:15:52"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:52"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:52"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:52"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:15:52"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:17:03"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:03"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:17:03"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:17:03"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:17:03"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:17:03"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:03"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:03"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:03"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:03"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 10:17:03"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:03"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:17:37"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:37"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:17:37"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:17:37"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:17:37"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:17:37"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:37"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:37"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:37"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:37"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 10:17:37"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:37"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 10:17:40"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:40"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:17:40"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:17:40"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:17:40"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:17:40"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:40"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:40"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:40"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:17:40"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 10:18:40"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:18:40"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:18:40"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:18:40"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:18:40"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:18:40"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:18:40"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:18:40"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:18:40"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:18:40"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 10:18:41"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:18:41"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:19:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:19:38"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:19:38"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:19:38"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:19:38"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:19:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:19:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:19:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:19:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:19:38"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:19:45"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:19:45"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:19:45"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:19:45"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:20:47"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:20:47"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:20:47"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:20:47"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:20:47"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:20:47"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:20:47"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:20:47"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:20:47"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:20:47"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 10:20:50"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:20:50"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:20:50"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:20:50"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:20:50"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:20:50"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:20:50"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:20:50"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:20:50"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:20:50"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:21:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:21:36"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:21:36"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:21:36"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:21:36"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:21:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:21:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:21:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:21:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:21:36"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 10:21:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:21:38"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:21:38"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:21:38"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:21:38"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:21:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:21:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:21:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:21:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:21:38"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:22:15"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:15"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:22:15"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:22:15"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:22:15"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:22:15"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:15"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:15"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:15"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:15"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:22:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:36"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:22:36"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:22:36"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:22:36"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:22:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:36"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 10:22:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:38"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:22:38"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:22:38"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:22:38"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:22:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:38"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:22:51"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:51"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:22:51"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:22:51"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:22:51"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:22:51"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:51"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:51"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:51"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:51"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 10:22:53"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:53"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:22:53"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:22:53"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:22:53"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:22:53"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:53"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:53"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:53"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:22:53"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:23:06"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:23:06"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:23:06"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:23:06"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:23:06"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:23:06"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:23:06"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:23:06"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:23:06"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:23:06"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:35:28"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:28"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:35:29"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:35:29"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:35:29"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:35:29"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:29"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:29"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:29"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:29"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 10:35:31"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:31"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:35:31"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:35:31"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:35:31"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:35:31"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:31"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:31"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:31"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:31"}
+{"level":"info","message":"200 HTTP GET \"/fonts/fontawesome-webfont.woff2?v=4.5.0\"","timestamp":"03.07.2016, 10:35:31"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:31"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:35:58"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:58"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:35:58"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:35:58"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:35:58"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:35:58"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:58"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:58"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:58"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:35:58"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 10:36:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:36:00"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:36:00"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:36:00"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:36:00"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:36:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:36:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:36:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:36:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:36:00"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:37:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:37:32"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:37:32"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:37:32"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:37:32"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:37:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:37:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:37:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:37:32"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:37:32"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 10:37:41"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:37:41"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 10:37:41"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 10:37:41"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 10:37:41"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 10:37:41"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:37:41"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:37:41"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:37:41"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 10:37:41"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 11:28:23"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:28:23"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 11:28:23"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 11:28:23"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 11:28:23"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 11:28:23"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:28:23"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:28:23"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:28:23"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:28:23"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 11:28:23"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:28:23"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 11:56:05"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:05"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 11:56:05"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 11:56:05"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 11:56:05"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 11:56:05"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:05"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:05"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:05"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:05"}
+{"level":"info","message":"200 HTTP GET \"/favicon.png\"","timestamp":"03.07.2016, 11:56:06"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:06"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 11:56:08"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:08"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 11:56:08"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 11:56:08"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 11:56:08"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 11:56:08"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:08"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:08"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:08"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:08"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 11:56:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:36"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 11:56:36"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 11:56:36"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 11:56:36"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 11:56:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:36"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:36"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 11:56:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:38"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 11:56:38"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 11:56:38"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 11:56:38"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 11:56:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:38"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:38"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 11:56:42"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:42"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 11:56:42"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 11:56:42"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 11:56:42"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 11:56:42"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:42"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:42"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:42"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:42"}
+{"level":"info","message":"200 HTTP GET \"/signout\"","timestamp":"03.07.2016, 11:56:43"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:43"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 11:56:43"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 11:56:43"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 11:56:43"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 11:56:43"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 11:56:43"}
+{"level":"info","message":"200 HTTP GET \"/register\"","timestamp":"03.07.2016, 11:56:45"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 11:56:46"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 11:56:46"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 11:56:46"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 11:56:46"}
+{"level":"info","message":"200 HTTP POST \"/register\"","timestamp":"03.07.2016, 11:56:47"}
+{"level":"info","message":"200 HTTP GET \"/register\"","timestamp":"03.07.2016, 11:56:47"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 11:56:47"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 11:56:47"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 11:56:47"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 11:56:47"}
+{"level":"info","message":"200 HTTP GET \"/signin\"","timestamp":"03.07.2016, 11:56:50"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 11:56:50"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 11:56:50"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 11:56:50"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 11:56:50"}
+{"level":"info","message":"200 HTTP GET \"/auth/facebook\"","timestamp":"03.07.2016, 11:56:51"}
+{"level":"info","message":"200 HTTP GET \"/auth/facebook/callback?code=AQDq5PnqNbdePxAVZG2wGs_G2tAO7ZuVFicba1574ZDf__3VnCMo4ErCHl2DTQYJY4pmv0X4ZYeQn35J6RPQCVFos_NET3I9Xl36ZpM-nKLZuy0BGu0cSXwrnnGccHq49ak91gbuyTqWs552WKhylGBauKUHdCGdmHGblzgDdutZt9ibyZKB-KvICmgx_9GxJ0sC2swvRERcxoP_fcGg5RkY_-4b024sRU2y6WfVyES3T8NeUiVYcsh4YTPu8-MIvnmaq1gwRUkmP8BpWYjeG3Mt80mIoRS2Mz0NEkHrY4vOaLYm8Tnou2GK5p38wosJ0kjPCOGlr6wKO2ad3fkbUyqi\"","timestamp":"03.07.2016, 11:56:52"}
+{"level":"info","message":"Mongoose users.findOne({\"facebook\":\"1116743338358118\"}) {}","timestamp":"03.07.2016, 11:56:52"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 11:56:52"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:52"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 11:56:53"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 11:56:53"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 11:56:53"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 11:56:53"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:53"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:53"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:53"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:56:53"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.07.2016, 11:59:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:59:00"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 11:59:00"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 11:59:00"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 11:59:00"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 11:59:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:59:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:59:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:59:00"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:59:00"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.07.2016, 11:59:03"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:59:03"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.07.2016, 11:59:03"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.07.2016, 11:59:03"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.07.2016, 11:59:03"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.07.2016, 11:59:03"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:59:03"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:59:03"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:59:03"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.07.2016, 11:59:03"}
+{"level":"info","message":"200 HTTP GET \"/\"","timestamp":"03.08.2016, 12:00:25"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.08.2016, 12:00:25"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.08.2016, 12:00:25"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.08.2016, 12:00:25"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.08.2016, 12:00:25"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.08.2016, 12:00:25"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.08.2016, 12:00:25"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.08.2016, 12:00:25"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.08.2016, 12:00:25"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.08.2016, 12:00:25"}
+{"level":"info","message":"200 HTTP GET \"/profile\"","timestamp":"03.08.2016, 12:00:28"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.08.2016, 12:00:28"}
+{"level":"info","message":"200 HTTP GET \"/css/font-awesome.min.css\"","timestamp":"03.08.2016, 12:00:28"}
+{"level":"info","message":"200 HTTP GET \"/css/main.css\"","timestamp":"03.08.2016, 12:00:28"}
+{"level":"info","message":"200 HTTP GET \"/js/jquery-2.2.1.min.js\"","timestamp":"03.08.2016, 12:00:28"}
+{"level":"info","message":"200 HTTP GET \"/js/bootstrap.min.js\"","timestamp":"03.08.2016, 12:00:28"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.08.2016, 12:00:28"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.08.2016, 12:00:28"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.08.2016, 12:00:28"}
+{"level":"info","message":"Mongoose users.findOne({\"_id\":\"56dde0b06146423044a4acac\"}) {}","timestamp":"03.08.2016, 12:00:28"}
+{"level":"error","message":"404 HTTP GET \"/css/sweet-alert.min.css\"","timestamp":"03.10.2016, 5:27:25"}
+{"level":"error","message":"404 HTTP GET \"/css/sweet-alert.min.css\"","timestamp":"03.10.2016, 5:27:28"}
+{"level":"error","message":"404 HTTP GET \"/css/sweet-alert.min.css\"","timestamp":"03.10.2016, 5:27:33"}
+{"level":"error","message":"404 HTTP GET \"/css/sweet-alert.min.css\"","timestamp":"03.10.2016, 5:27:39"}
+{"level":"error","message":"404 HTTP GET \"/css/sweet-alert.min.css\"","timestamp":"03.10.2016, 5:27:59"}
+{"level":"error","message":"404 HTTP GET \"/css/sweet-alert.min.css\"","timestamp":"03.10.2016, 5:28:02"}
+{"level":"error","message":"404 HTTP GET \"/css/sweet-alert.min.css\"","timestamp":"03.10.2016, 5:28:06"}
+{"level":"error","message":"500 HTTP POST \"/profile/delete\"","timestamp":"03.10.2016, 5:48:51"}
+{"level":"error","message":"404 HTTP GET \"/auth/vk\"","timestamp":"03.10.2016, 5:55:07"}
+{"level":"error","message":"500 HTTP GET \"/auth/vkontakte/callback?code=a556b90b2370f9690b\"","timestamp":"03.10.2016, 6:09:24"}

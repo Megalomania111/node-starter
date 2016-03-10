@@ -41,7 +41,10 @@
     "node-sass-middleware": "^0.9.7",
     "nodemailer": "^2.3.0",
     "passport": "^0.3.2",
+    "passport-facebook": "^2.1.0",
     "passport-local": "^1.0.0",
+    "passport-vkontakte": "^0.4.0",
+    "underscore": "^1.8.3",
     "winston": "^2.2.0"
   }
 }
